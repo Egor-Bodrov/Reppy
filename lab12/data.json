@@ -1,0 +1,7 @@
+[
+  {"id": 1, "title": "Перевал Карпатский", "category": "горный", "amount": 18, "completed": true},
+  {"id": 2, "title": "Тропа Шевченко", "category": "лесной", "amount": 12, "completed": false},
+  {"id": 3, "title": "Центр Киева", "category": "городской", "amount": 5, "completed": true},
+  {"id": 4, "title": "Хребет Свидовец", "category": "горный", "amount": 25, "completed": false},
+  {"id": 5, "title": "Уманский парк", "category": "лесной", "amount": 7, "completed": true}
+]
